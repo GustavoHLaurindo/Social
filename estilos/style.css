@@ -36,3 +36,22 @@ iframe#tela{
     height: 471px;
     width: 266px;
 }
+section#redes-sociais{
+    position: absolute;
+    right: 0px;
+}
+section#redes-sociais > a{
+    text-decoration: none;
+}
+img.logo{
+    width: 55px;
+    height: 55px;
+    margin: 10px;
+    border-radius: 50%;
+}
+img.logo:hover{
+    transform: translate(-3px,-3px);
+}
+img#home{
+    margin-bottom: 20px;
+}
