@@ -10,7 +10,7 @@ html,body{
     width: 100vw;
 }
 body{
-    background: url(../imagens/pixel-jeff-clipc-s.gif), center bottom, no-repeat;
+    background: url(), center bottom, no-repeat;
     background-size: cover;
 }
 main{
